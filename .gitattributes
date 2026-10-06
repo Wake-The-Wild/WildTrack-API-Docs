@@ -1,5 +1,0 @@
-* text=auto
-*.md text eol=lf
-*.java text eol=lf
-*.json text eol=lf
-*.png binary
