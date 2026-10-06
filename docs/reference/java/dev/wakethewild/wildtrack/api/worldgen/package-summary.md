@@ -1,0 +1,15 @@
+# dev.wakethewild.wildtrack.api.worldgen
+
+- [WorldgenAnchorPlan](WorldgenAnchorPlan.md)
+- [WorldgenAnchorRequest](WorldgenAnchorRequest.md)
+- [WorldgenAnchorRule](WorldgenAnchorRule.md)
+- [WorldgenCandidateService](WorldgenCandidateService.md)
+- [WorldgenCapability](WorldgenCapability.md)
+- [WorldgenContext](WorldgenContext.md)
+- [WorldgenRelativeAnchorPlan](WorldgenRelativeAnchorPlan.md)
+- [WorldgenRelativeAnchorRequest](WorldgenRelativeAnchorRequest.md)
+- [WorldgenRelativeAnchorRule](WorldgenRelativeAnchorRule.md)
+- [WorldgenRequest](WorldgenRequest.md)
+- [WorldgenService](WorldgenService.md)
+- [WorldgenSurfaceCandidateRequest](WorldgenSurfaceCandidateRequest.md)
+- [WorldgenSurfaceCandidateResult](WorldgenSurfaceCandidateResult.md)

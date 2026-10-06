@@ -1,0 +1,18 @@
+{
+  "type": "wildtrack:all",
+  "children": [
+    {
+      "type": "wildtrack:terrain/slope_between",
+      "arguments": {
+        "minimum": "0",
+        "maximum": "12"
+      }
+    },
+    {
+      "type": "wildtrack:surface/ground_block",
+      "arguments": {
+        "id": "minecraft:grass_block"
+      }
+    }
+  ]
+}

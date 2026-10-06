@@ -1,0 +1,18 @@
+# dev.wakethewild.wildtrack.api.query
+
+- [BlockPattern](BlockPattern.md)
+- [BlockSearchQuery](BlockSearchQuery.md)
+- [BlockSearchResult](BlockSearchResult.md)
+- [BlockSearchService](BlockSearchService.md)
+- [BlockSearchStatus](BlockSearchStatus.md)
+- [BlockSearchView](BlockSearchView.md)
+- [LocationCoverageQuery](LocationCoverageQuery.md)
+- [LocationCoverageReport](LocationCoverageReport.md)
+- [LocationCoverageStatus](LocationCoverageStatus.md)
+- [LocationQuery.Builder](LocationQuery.Builder.md)
+- [LocationQuery](LocationQuery.md)
+- [LocationQueryResult](LocationQueryResult.md)
+- [LocationSelector](LocationSelector.md)
+- [LocationService](LocationService.md)
+- [QueryGeometryMode](QueryGeometryMode.md)
+- [QueryStatus](QueryStatus.md)
